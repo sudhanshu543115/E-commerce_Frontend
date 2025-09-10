@@ -1,3 +1,5 @@
+                     Note:    Deployment is in the under process due to server issuse 
+
 Backend  === https://github.com/sudhanshu543115/E-commerce_Backend-
 Frontend === https://github.com/sudhanshu543115/E-commerce_Frontend
 Project Api === https://github.com/sudhanshu543115/E-commerce_Api-
