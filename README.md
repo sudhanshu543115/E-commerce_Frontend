@@ -1,4 +1,5 @@
                      Note:    Deployment is in the under process due to server issuse 
+                     Deployment Link  https://e-commerce-frontend-pi-ochre.vercel.app/
 
 Backend  === https://github.com/sudhanshu543115/E-commerce_Backend-
 Frontend === https://github.com/sudhanshu543115/E-commerce_Frontend
