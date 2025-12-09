@@ -6,11 +6,6 @@ build/
 dist/
 
 # Environment variables
-.env
-.env.local
-.env.development
-.env.production
-.env.test
 
 # Logs
 npm-debug.log*
@@ -30,8 +25,8 @@ Thumbs.db
 .parcel-cache/
 
 # IDE / Editor
-.vscode/
 .idea/
 
 # Misc
 *.pem
+config.bat
